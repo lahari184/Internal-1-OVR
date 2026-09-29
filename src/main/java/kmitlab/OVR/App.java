@@ -32,7 +32,7 @@ public class App {
                 break;
 
             case 2:
-                System.out.println("\nVehicle Rental");
+                System.out.println("\nVehicle Rental12");
                 System.out.println("-------------------------");
 
                 System.out.print("Enter customer name: ");
